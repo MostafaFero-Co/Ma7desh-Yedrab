@@ -824,6 +824,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 4463659572267984464, guid: ec377640bd800c648aa32cea79d6da9b, type: 3}
+  bulletPoint: {fileID: 1567906573}
+  bulletSpeed: 600
 --- !u!1001 &1979352518
 PrefabInstance:
   m_ObjectHideFlags: 0
